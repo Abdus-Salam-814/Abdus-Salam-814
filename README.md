@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <li> This project is Api <a href="https://abdus-salam-814.github.io/phone-hent-api/" target="blank" >Phone Hent</a> </li>
  
   <li> This is a Kindergarten Website project   <a href="https://fanciful-puppy-6db004.netlify.app/" target="blank" >Reader's BD</a> </li>
-  <li> Tiny Tarsier Is JavaScript project   <a href="https://tiny-tarsier-63ee16.netlify.app/" target="blank" >Tiny Tarsier</a> </li>
+  <li> Add Card Is JavaScript project   <a href="https://tiny-tarsier-63ee16.netlify.app/" target="blank" >Tiny Tarsier</a> </li>
+  <li> Geometry Genius is JavaScript project   <a href="https://famous-snickerdoodle-bff9f1.netlify.app/" target="blank" >Geometry Genius</a> </li>
   
 </ol>
