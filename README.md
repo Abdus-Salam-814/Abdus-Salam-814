@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 <h1>My Project Live link:</h1>
 <ol>
-  <li>I am working on this project now <a herf="https://abdus-salam-814.github.io/food-store/"> Food Shop </a> </li>
+  <li>I am working on this project now <a href="https://abdus-salam-814.github.io/food-store/">Food Shop</a> </li>
 </ol>
