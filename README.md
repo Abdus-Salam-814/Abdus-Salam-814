@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <li>I am working on this project now <a href="https://abdus-salam-814.github.io/food-store/" target="blank" >Food Shop</a> </li>
   <li> This project is Api <a href="https://abdus-salam-814.github.io/phone-hent-api/" target="blank" >Phone Hent</a> </li>
  
-  <li> This is a Kindergarten Website project   <a href="https://fanciful-puppy-6db004.netlify.app/" target="blank" >Phone Hent</a> </li>
+  <li> This is a Kindergarten Website project   <a href="https://fanciful-puppy-6db004.netlify.app/" target="blank" >Reader's BD</a> </li>
 </ol>
